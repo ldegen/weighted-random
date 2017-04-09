@@ -1,0 +1,5 @@
+lib
+node_modules
+build
+npm-debug.log
+ldegen-weighted-random-*.tgz
